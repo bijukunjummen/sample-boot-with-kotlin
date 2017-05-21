@@ -1,0 +1,10 @@
+= Spring Boot with Kotlin
+A sample web application using spring-boot and Kotlin
+
+
+=== Using gradle as the build tool:
+
+Build using `./gradlew build`
+Run using `./gradlew bootRun`
+
+A url listing the hotels is at http://localhost:8080/[http://localhost:8080/]
